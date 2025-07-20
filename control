@@ -1,0 +1,9 @@
+Package: com.thanhdat.wespy
+Name: WeSpy
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome SwiftUI application!
+Maintainer: ThanhDat
+Author: ThanhDat
+Section: Utilities
+Depends: firmware (>= 14.0)
